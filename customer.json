@@ -1,0 +1,14 @@
+{
+	"custName": "Karan",
+	"ip": {
+		"insuranceName": "TATA",
+		"insuranceStartDate": "01-01-2020",
+		"insuranceEndDate": "01-01-2021",
+		"insuranceAmt": 300
+	},
+	"adrr": {
+		"city": "Bangalore",
+		"pinCode": 123,
+		"country": "Ind"
+	}
+}
